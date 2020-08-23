@@ -69,13 +69,14 @@ namespace RedeSocial.Web.Controllers
         {
             return View();
         }
-        public IActionResult Perfil(string userId)
+        public IActionResult Perfil(string userId, Domain.Account.Account user)
         {
             try
             {
                 CancellationToken token = new CancellationToken();
-                this.AccountService.details(userId, token);
-                return RedirectToAction(nameof(Perfil));
+                this.AccountService.detailsGetId(user, token);
+                this.AccountService.detailsFindId(userId, token);            
+                return View(userId);
             }
             catch
             {

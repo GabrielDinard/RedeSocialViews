@@ -20,5 +20,7 @@ namespace RedeSocial.Domain.Account.Repository
         public Task<IdentityResult> UpdateAsync(Domain.Account.Account user, CancellationToken cancellationToken);
 
         public Task<Domain.Account.Account> FindByIdAsync(string userId, CancellationToken cancellationToken);
+
+        public Task<string> GetUserIdAsync(Domain.Account.Account user, CancellationToken cancellationToken);
     }
 }

@@ -11,6 +11,8 @@ namespace RedeSocial.Services.Account
 
         public void edit(Domain.Account.Account user, CancellationToken cancellationToken);
 
-        public void details(string userId, CancellationToken cancellationToken);
+        public void detailsFindId(string userId, CancellationToken cancellationToken);
+
+        public void detailsGetId(Domain.Account.Account user, CancellationToken cancellationToken);
     }
 }

@@ -425,7 +425,6 @@ C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1
 C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Create.cshtml.g.cs
 C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
-C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -443,3 +442,5 @@ C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1
 C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1\RedeSocial.Web.genruntimeconfig.cache
 C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
 C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Perfil.cshtml.g.cs
+C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\EditPassword.cshtml.g.cs
+C:\Users\gabri\source\repos\TP-RedeSocial\RedeSocial.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs

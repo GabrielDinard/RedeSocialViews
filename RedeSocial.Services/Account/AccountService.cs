@@ -31,9 +31,14 @@ namespace RedeSocial.Services.Account
             this.AccountRepository.UpdateAsync(user, cancellationToken);
         }
 
-        public void details(string userId, CancellationToken cancellationToken)
+        public void detailsFindId(string userId, CancellationToken cancellationToken)
         {
             this.AccountRepository.FindByIdAsync(userId, cancellationToken);
+        }
+
+        public void detailsGetId(Domain.Account.Account user, CancellationToken cancellationToken)
+        {
+            this.AccountRepository.GetUserIdAsync(user, cancellationToken);
         }
     }
 }
